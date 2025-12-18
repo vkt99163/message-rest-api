@@ -1,0 +1,40 @@
+body{
+    margin-left: 20px;
+}
+.chat{
+    background-color: #F8F8FF
+;
+    color: #6A5ACD
+;
+    padding:20px;
+    border-radius: 12px;
+    display: inline-block;
+    margin:12px;
+    transition: transform 0.3s ease,  box-shadow 0.25s ease; 
+}
+.msg{
+    background-color: #DDE6ED
+
+;
+    color: #008080;
+    padding:5px,15px;
+}
+.chat:hover{
+    opacity: 0.9;
+      transform: translateY(-6px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15)
+
+
+}
+
+.ttp{
+    background-color: #4682B4;
+    color:#ffffff;
+    border-radius: 5px;
+    
+}
+.ddd{
+    background-color: #f1f1f1;
+    color: #333333;
+    border-radius: 8px;
+}
