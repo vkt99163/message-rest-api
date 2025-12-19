@@ -16,5 +16,3 @@ Users can create, edit and delete messages with timestamps.
 - Express
 - MongoDB / Mongoose
 - EJS / HTML / CSS (for frontend cards)
-
-
